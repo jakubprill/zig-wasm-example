@@ -1,0 +1,4 @@
+[tools]
+bun = "latest"
+wasmtime = "latest"
+zig = "latest"
